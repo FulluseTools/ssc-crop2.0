@@ -1,0 +1,5 @@
+{
+  "name": "ssc-crop 2.0",
+  "description": "A tool to manually crop 9 photos and 9 signatures from a single A4/A5 sheet. The cropped images can be downloaded as a single ZIP file.",
+  "requestFramePermissions": []
+}
